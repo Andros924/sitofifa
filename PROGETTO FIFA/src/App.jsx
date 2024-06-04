@@ -1,11 +1,14 @@
+import Navbar from "./Navbar"
+
+
 
 
 function App() {
-  
+
 
   return (
     <>
-      <h1>il nostro titolo FIFA</h1>
+      <Navbar />
     </>
   )
 }

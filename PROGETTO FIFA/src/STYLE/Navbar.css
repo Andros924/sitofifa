@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+
+.avbar{
+  background-color: #045694;
+  height: 20px;  
+  width: 100px;
+}
